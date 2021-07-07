@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Permission_You_2nd</string>
+    <string name="request_permissions">Request Permissions</string>
 </resources>
